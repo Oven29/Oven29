@@ -29,7 +29,11 @@
 
 ## [![📁](./emojis/multiple-folders.gif)](#) Open projects
 
-### [Fastapi backend](https://github.com/Oven29/mini_shop_web_app_backend)
+#### Backend on fastapi: [mini shop](https://github.com/Oven29/mini_shop_web_app_backend)
+
+#### Python module: [vk bot](https://github.com/Oven29/vk_bot)
+
+#### Parser with web admin: [inst_parser](https://github.com/Oven29/insta_parser)
 
 ## [![📊](./emojis/money-flying.gif)](#) Stats
 
